@@ -87,6 +87,7 @@ A curated awesome list of AltStore sources (JSON repositories) to easily discove
 - [altstorepal.fullcodes.thatfinn.dev/repo.json](https://altstorepal.fullcodes.thatfinn.dev/repo.json) — Personal AltStore PAL source hosted by FullCodes / ThatFinn.
 - [www.cranci.tech/PAL.json](https://www.cranci.tech/PAL.json) — PAL source from Cranci, an independent iOS developer.
 - [bringyour.com/altstore/source.json](https://bringyour.com/altstore/source.json) — **BringYour** : Official source for BringYour, a private networking and connection sharing app for iOS.
+- [raw.githubusercontent.com/Balackburn/Apollo/refs/heads/main/apps.json](https://raw.githubusercontent.com/Balackburn/Apollo/refs/heads/main/apps.json) — **Apollo** : GitHub source for Apollo, a popular third-party Reddit client for iOS.
 
 ## Useful Resources
 
