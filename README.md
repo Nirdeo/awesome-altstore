@@ -66,6 +66,8 @@ A curated awesome list of AltStore sources (JSON repositories) to easily discove
 - [quarksources.github.io/quantumsource++.json](https://quarksources.github.io/quantumsource++.json) — **Quantum Source++** : Alternative direct link for the extended Quantum Source.
 - [quarksources.github.io/quantumsource.json](https://quarksources.github.io/quantumsource.json) — **Quantum Source (direct URL)** : Direct GitHub Pages link for Quantum Source, without the bit.ly shortener.
 - [randomblock1.com/altstore/apps.json](https://randomblock1.com/altstore/apps.json) — **Random Source** : A handy mix of sideloadable apps: PPSSPP, unc0ver, Chimera and more.
+- [rateme.lv/altstore/classic.json](https://www.rateme.lv/altstore/classic.json) — **Rate Me (Classic/SideStore)** : Sideload source for Rate Me, a photo-rating community app — for AltStore Classic and SideStore users worldwide.
+- [rateme.lv/altstore/source.json](https://www.rateme.lv/altstore/source.json) — **Rate Me (PAL)** : Official AltStore PAL source for Rate Me, a photo-rating community app.
 - [raw.githubusercontent.com/auties00/artemis/refs/heads/main/source_pal.json](https://raw.githubusercontent.com/auties00/artemis/refs/heads/main/source_pal.json) — GitHub source for the Artemis project, distributed in AltStore JSON format.
 - [raw.githubusercontent.com/Balackburn/Apollo/refs/heads/main/apps.json](https://raw.githubusercontent.com/Balackburn/Apollo/refs/heads/main/apps.json) — **Apollo** : GitHub source for Apollo, a popular third-party Reddit client for iOS.
 - [raw.githubusercontent.com/cbruegg/altstore-source/refs/heads/main/source.json](https://raw.githubusercontent.com/cbruegg/altstore-source/refs/heads/main/source.json) — GitHub-hosted source with a visible update history.
